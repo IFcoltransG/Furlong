@@ -1,5 +1,6 @@
 # Furlong Text
 A bookmarklet-based text editor, for your convenience.
+Currently has some errors, due to changes in browser functionality, but it should still be mildly functional.
 
 #### Features
 * Accessible from your browser with a simple bookmark
