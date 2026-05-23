@@ -4,10 +4,10 @@ A bookmarklet-based text editor, for your convenience. I built it to capture tho
 #### Features
 * Accessible from your browser with a simple bookmark
 * Loads in an instant
-* Persistent when you reload
+* Autosaves and persistent when you reload
 * Edited documents are also bookmarkable
 * Native spellchecking
-* Save button is large and easy to click
+* File save button is large and easy to click
 
 The basics
 ---
