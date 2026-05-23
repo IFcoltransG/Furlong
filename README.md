@@ -43,3 +43,8 @@ Unimplemented Features
 * Button to update browser history without asking you to save the file
 
 Pester me or make a pull request if you want any of these.
+
+Screenshot
+---
+
+![Screenshot of Furlong Text Editor, with text describing that you can write things in it.](./screenshot.png?raw=true "Screenshot")
