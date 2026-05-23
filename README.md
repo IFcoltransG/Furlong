@@ -30,7 +30,7 @@ How do I use it?
 Open up [firefox.txt](https://raw.githubusercontent.com/IFcoltransG/Furlong/main/firefox.txt) or [chrome.txt](https://raw.githubusercontent.com/IFcoltransG/Furlong/main/chrome.txt) and copy and paste its contents into a your address bar. Bookmark it with a memorable name, and hey presto! (I'd link to them directly, but GitHub doesn't like urls that are 3.6 kilobytes long and full of special characters.)
 
 #### Usage
-Whenever you have something to jot down, click your handy-dandy bookmark. The page should load instantly, although if the title doesn't show at first, simply click on the big blank area to update it. Once you've written something worth remembering (and changed the title from the default) press the 'Save' button. Your work will download for you.
+Whenever you have something to jot down, click your handy-dandy bookmark. (Firefox also lets you set a keyword for bookmarks: I type `furl` into a new tab to open the bookmarklet.) The page should load instantly, although if the title doesn't show at first, simply click on the big blank area to update it. Once you've written something worth remembering (and changed the title from the default) press the 'Save' button. Your work will download for you.
 
 The URL updates to store whatever you type. If you don't like local files, you can bookmark the new URL instead. Your text will magically reappear when you reload or re-enter the updated URL. Whenever you press the Save button, what you've typed is added to the browser back-button history so that you can easily review past versions.
 
